@@ -1,8 +1,5 @@
 # User management
 
-This project is a Node.js application using Apollo Server and GraphQL for user management.
-
-## Technologies
 - Node.js
 - Apollo Server
 - GraphQL
