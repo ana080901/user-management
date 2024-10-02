@@ -24,8 +24,8 @@ This project is a Node.js application using Apollo Server and GraphQL for user m
 
    Create a `.env` file in the root of the project and add the following variables:
 
-   **PORT** - The port on which the application will run (e.g., `PORT=4000`).
-   **MONGO_URI** - The connection string to your MongoDB database (e.g., `MONGO_URI=mongodb://localhost:27017/myDataBase`).
+   - **PORT** - The port on which the application will run (e.g., `PORT=4000`).
+   - **MONGO_URI** - The connection string to your MongoDB database (e.g., `MONGO_URI=mongodb://localhost:27017/myDataBase`).
 
 4. **Start the project:**
    
